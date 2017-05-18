@@ -1,0 +1,12 @@
+GET        /api                    controllers.HomeController.index
+GET        /api/serve              controllers.HomeController.serve
+GET        /api/alerts             controllers.HomeController.alerts
+
+->         /v1/posts               v1.post.PostRouter
+
+
+# Map static resources from the ../../../fronted/<frontend-project>/build folder to the / URL path
+GET        /*file                  controllers.ExternalAssets.at(path=java.nio.file.Paths.get(java.nio.file.Paths.get(play.Environment.simple().rootPath().getAbsolutePath).getParent.getParent.getParent.toString,"frontend/SB-Admin-BS4-Angular-4/build").toString, file)
+
+
+

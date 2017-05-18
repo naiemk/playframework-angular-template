@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/conf/application.conf,/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/conf/generated.keystore,/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/target/scala-2.11/classes/generated.keystore)[0m
+[0m[[0mdebug[0m] [0m	(/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/conf/logback.xml,/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/conf/routes,/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/conf/secure.conf,/Users/bana/nk/playframework-angular-template/backend/play-scala-rest-api-example/target/scala-2.11/classes/secure.conf)[0m
